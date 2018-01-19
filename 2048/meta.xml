@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>2048</name>
+  <coder>rw-r-r_0644</coder>
+  <version>2.1</version>
+  <release_date>20160618165302</release_date>
+  <short_description>A CHIP8 Emulator</short_description>
+  <long_description>A CHIP8 Emulator for WiiU
+  
+  Ported by rw-r-r_0644
+  Credits:
+  -brienj and vgmoose for helping me a lot with the project 
+  -dimok and joedj for FTPiiU files functions
+  Original emulator: http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/
+  </long_description>
+
+</app>
